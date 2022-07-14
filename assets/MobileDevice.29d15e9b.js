@@ -1,0 +1,1 @@
+import{jsx as r,classes$1 as e,ErrorBoundary as o}from"./SlateElementRender.1c3c19ec.js";function c({children:s}){return r("div",{className:e.root,children:r(o,{children:s})})}export{c as MobileDevice};

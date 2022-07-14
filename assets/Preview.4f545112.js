@@ -1,0 +1,1 @@
+import{jsx as e,Mode as c,Provider as l,currentAppAtom as n,classes as m}from"./SlateElementRender.1c3c19ec.js";import{MobileDevice as d}from"./MobileDevice.29d15e9b.js";function p({app:o,type:r,View:t}){let i=e(t,{mode:c.View});return r==="mobile-mock"&&(i=e(d,{children:i})),e(l,{initialValues:[[n,o]],children:e("div",{className:m.root,children:i})})}export{p as Preview};
